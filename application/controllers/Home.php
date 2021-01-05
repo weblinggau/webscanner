@@ -51,7 +51,7 @@ class Home extends CI_Controller {
 		if ($rule == 'arsip1') {
 			$gbr = $data->arsip1;
 		}elseif ($rule == 'arsip2') {
-			$gbr == $data->arsip2;
+			$gbr = $data->arsip2;
 		}elseif ($rule == 'arsip3') {
 			$gbr = $data->arsip3;
 		}else{
