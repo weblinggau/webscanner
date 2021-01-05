@@ -15,10 +15,11 @@ password : 1234
 
 # setting web
 untuk melakukan setting silahkan clone project ini lalu atur seperti pengatuaran web CI biasa pada file `` autoload.php `` `` config.php `` `` database.php `` tertama pada database dan `` base_url[''] `` .
-![contoh pengaturan](https://i.ibb.co/gT4rChx/sss.png)
+
 
 # setting apps destop 
-silhkn install aplikasi destop terlebih dahulu di folder app, matikan antivirus terlebih dahulu karna file destop belum di autorisasi di windiws sehingga di anggap virus dan setting next-next pada bagian url isikan url api nya seperti berikut `` http://localhost/webscanner/scan ``  pada bagian ini `` http://localhost/webscanner/ `` isi sesuai dengan pengaturan local anda.
+silhkn install aplikasi destop terlebih dahulu di folder app, matikan antivirus terlebih dahulu karna file destop belum di autorisasi di windiws sehingga di anggap virus dan setting next-next pada bagian url isikan url api nya seperti berikut `` http://localhost/webscanner/scan ``  pada bagian ini `` http://localhost/webscanner/ `` isi sesuai dengan pengaturan local anda.<br/>
+![contoh pengaturan](https://i.ibb.co/gT4rChx/sss.png)
 
 # Cangelog
 03-01-2021<br/>
